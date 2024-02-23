@@ -33,5 +33,5 @@
 
   Me on github                                                                                                                                             | Most used languages |
 -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-![NOOBIERAM's github stats](https://github-readme-stats.vercel.app/api?username=NOOBIERAM&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false) | ![NOOBIERAM's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOOBIERAM&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
+![NOOBIERAM's github stats](https://github-readme-stats.vercel.app/api?username=NOOBIERAM&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOOBIERAM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
