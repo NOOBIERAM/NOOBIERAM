@@ -1,16 +1,19 @@
 <h1 align=center> Hello World!😁 </h1>
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=RAMANANTSOA+Rotsiniaina"></h1>
 
+<!--
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=NOOBIERAM&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> </p>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=NOOBIERAM&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> </p>-->
     
-<!-- <div align="center"> 
+ <div align="center">  
 
-[![](https://visitcount.itsvg.in/api?id=tohynyaina&icon=0&color=0)](https://visitcount.itsvg.in) 
+ 
+
+[![](https://visitcount.itsvg.in/api?id=NOOBIERQ:&icon=0&color=0)](https://visitcount.itsvg.in) 
 <br>
-
+</div>
+<!-- <div align="center">
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://tohynyaina.vercel.app/)
-
 </div> -->
 
 <h3 align="center">Languages & Tools:</h3>
