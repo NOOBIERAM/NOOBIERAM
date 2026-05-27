@@ -1,25 +1,32 @@
-<h1 align=center> ( *-*) </h1>
-
-    
 <div align="center">
 <img src="./assets/about.webp" alt="" width="100%"  style="border:2px solid #23998f; border-radius:10px" /></div>
 
 <div align="center"> 
 
-[![](https://visitcount.itsvg.in/api?id=routsgg&icon=0&color=0)](https://visitcount.itsvg.in) 
-<br>
+ 
+<p style="font-size: 24px;"> ( *-*) <br> I'm Rotsiniaina RAMANANTSOA 🇲🇬
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://routsgg.me/)
+<div style="display:flex; justify-content:center; gap:5px;" >
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=reflex&logoColor=#FF7139)](https://routsgg.me/)
+
+[![email](https://img.shields.io/badge/email-%23000000.svg?style=for-the-badge&logo=gmail)](mailto:tonemail@gmail.com)
+
+
+[![PHONE](https://img.shields.io/badge/+261_34_77_006_26-%23000000.svg?style=for-the-badge&logo=whatsapp)](https://wa.me/261347700626)
 </div>
 
-<h3 align="center">Languages | Frameworks & Tools</h3>
+</div>
+<h1><h1>
+<br>
 <div align="center"> 
 
 
     
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
  ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -43,6 +50,12 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
     
 </div>
-<div align=center>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noobieram&" alt="noobieram" /></div>
- 
+
+<!-- <p align="center">
+    <a href="https://ossinsight.io/analyze/noobieram">
+        <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=noobieram&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" >
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=noobieram&theme=react-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">            
+        </picture>
+    </a>
+</p> -->
