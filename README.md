@@ -5,20 +5,16 @@
 
  
 <h1 style="font-size: 24px;"> ( *-*) <br> I'm Rotsiniaina RAMANANTSOA 🇲🇬
+<br>
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=reflex&logoColor=#FF7139)](https://routsgg.me/) [![email](https://img.shields.io/badge/email-%23000000.svg?style=for-the-badge&logo=gmail)](mailto:tonemail@gmail.com) [![PHONE](https://img.shields.io/badge/+261_34_77_006_26-%23000000.svg?style=for-the-badge&logo=whatsapp)](https://wa.me/261347700626)
 </h1>
 
-<div style="display:flex; justify-content:center; gap:5px;" >
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=reflex&logoColor=#FF7139)](https://routsgg.me/)
-
-[![email](https://img.shields.io/badge/email-%23000000.svg?style=for-the-badge&logo=gmail)](mailto:tonemail@gmail.com)
 
 
-[![PHONE](https://img.shields.io/badge/+261_34_77_006_26-%23000000.svg?style=for-the-badge&logo=whatsapp)](https://wa.me/261347700626)
-</div>
 
 </div>
-<h1><h1>
 <br>
 <div align="center"> 
 
