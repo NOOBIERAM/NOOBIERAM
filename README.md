@@ -4,8 +4,8 @@
 <div align="center"> 
 
  
-<p style="font-size: 24px;"> ( *-*) <br> I'm Rotsiniaina RAMANANTSOA 🇲🇬
-</p>
+<h1 style="font-size: 24px;"> ( *-*) <br> I'm Rotsiniaina RAMANANTSOA 🇲🇬
+</h1>
 
 <div style="display:flex; justify-content:center; gap:5px;" >
 
